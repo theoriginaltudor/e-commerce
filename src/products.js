@@ -1,0 +1,73 @@
+export const PRODUCTS = [
+    {
+        id: 1,
+        name: 'iPhone 12 Pro',
+        price: 999,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021660000',
+        description: 'iPhone 12 Pro has a 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display with ProMotion, True Tone, and P3 wide color. And Night mode on every camera. It’s a leap year. iPhone 12 Pro. Welcome to the big leagues.',
+    },
+    {
+        id: 2,
+        name: 'iPhone 12 Pro Max',
+        price: 1099,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-max-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021660000',
+        description: 'iPhone 12 Pro Max has a 6.7-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display with ProMotion, True Tone, and P3 wide color. And Night mode on every camera. It’s a leap year. iPhone 12 Pro Max. Welcome to the big leagues.',
+    },
+    {
+        id: 3,
+        name: 'iPhone 12',
+        price: 799,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021660000',
+        description: 'iPhone 12 has a 6.1-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display with ProMotion, True Tone, and P3 wide color. And Night mode on every camera. It’s a leap year. iPhone 12. Welcome to the big leagues.',
+    },
+    {
+        id: 4,
+        name: 'iPhone 12 mini',
+        price: 699,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-mini-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1604021660000',
+        description: 'iPhone 12 mini has a 5.4-inch Super Retina XDR display. Ceramic Shield with 4x better drop performance. A14 Bionic, the fastest chip in a smartphone. An edge-to-edge OLED display with ProMotion, True Tone, and P3 wide color. And Night mode on every camera. It’s a leap year. iPhone 12 mini. Welcome to the big leagues.',
+    },
+    {
+        id: 5,
+        name: 'iPhone 11',
+        price: 599,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=940&hei=1112&fmt=png-alpha&.v=1567021762396',
+        description: 'iPhone 11 has a 6.1-inch Liquid Retina HD display. All-screen design. Water and dust resistant (2 meters for up to 30 minutes, IP68). Dual-camera system with 12MP Ultra Wide and Wide cameras; Night mode, Portrait mode, and 4K video up to 60fps. 12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo. Face ID for secure authentication and Apple Pay. A13 Bionic chip with third-generation Neural Engine. Fast-charge capable. Long-lasting battery life. And iOS 13 with Dark Mode, new tools for editing photos and video, and brand-new privacy features. All in the first iPhone powerful enough to be called Pro.',
+    },
+    {
+        id: 6,
+        name: 'iPhone 11 Pro',
+        price: 999,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1567021762396',
+        description: 'iPhone 11 Pro has a 5.8-inch Super Retina XDR display. All-screen design. Water and dust resistant (4 meters for up to 30 minutes, IP68). Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps. 12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo. Face ID for secure authentication and Apple Pay. A13 Bionic chip with third-generation Neural Engine. Fast-charge capable. Long-lasting battery life. And iOS 13 with Dark Mode, new tools for editing photos and video, and brand-new privacy features. All in the first iPhone powerful enough to be called Pro.',
+    },
+    {
+        id: 7,
+        name: 'iPhone 11 Pro Max',
+        price: 1099,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-pro-max-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1567021762396',
+        description: 'iPhone 11 Pro Max has a 6.5-inch Super Retina XDR display. All-screen design. Water and dust resistant (4 meters for up to 30 minutes, IP68). Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps. 12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo. Face ID for secure authentication and Apple Pay. A13 Bionic chip with third-generation Neural Engine. Fast-charge capable. Long-lasting battery life. And iOS 13 with Dark Mode, new tools for editing photos and video, and brand-new privacy features. All in the first iPhone powerful enough to be called Pro.',
+    },
+    {
+        id: 8,
+        name: 'iPhone SE',
+        price: 399,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-se-2020-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1587466895000',
+        description: 'iPhone SE has a 4.7-inch Retina HD display. Wide color and 3D Touch. A13 Bionic, the fastest chip in a smartphone. Touch ID for secure authentication and Apple Pay. 12MP camera with Portrait mode, 4K video, and Slo-Mo. 7MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo. Long battery life and iOS 13 with Dark Mode, new tools for editing photos and video, and brand-new privacy features.',
+    },
+    {
+        id: 9,
+        name: 'iPhone XR',
+        price: 499,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1550795417759',
+        description: 'iPhone XR has a 6.1-inch Liquid Retina display. All-screen design. Six stunning new finishes. Advanced Face ID for secure authentication. The A12 Bionic chip with next-generation Neural Engine. Wireless charging. And iOS 12 with Group FaceTime, shared augmented reality experiences, Screen Time, and more.',
+    },
+    {
+        id: 10,
+        name: 'iPhone XS',
+        price: 899,
+        image: 'https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xs-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1550795417759',
+        description: 'iPhone XS has a 5.8-inch Super Retina display. A12 Bionic chip with next-generation Neural Engine. Face ID for secure authentication and Apple Pay. 12MP dual cameras with dual OIS and 7MP TrueDepth front camera with Portrait mode. Water and dust resistant. iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime. And Apple’s new iPhone XS is a leap forward.',
+    },
+
+];
